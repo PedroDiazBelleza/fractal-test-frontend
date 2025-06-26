@@ -34,16 +34,26 @@ Un pedido puede contener uno o más productos, y el sistema facilita la visualiz
 ## Instalación y puesta en marcha
 
 1. Clonar el repositorio:
-   ```bash
-   git clone <tu-repo-url>
-   cd fractal-frontend
 
+   ```bash
+   git clone https://github.com/PedroDiazBelleza/fractal-test-backend.git
+   cd fractal-frontend
+   ```
 
 2. Instalar dependencias:
+
+```bash
     npm install
+```
 
 3. Ejecutar la aplicación en modo desarrollo:
+
+```bash
     npm run dev
+```
 
 4. Abrir en el navegador en:
+
+```bash
     http://localhost:5173
+```
